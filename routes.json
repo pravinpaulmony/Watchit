@@ -1,0 +1,5 @@
+{
+  "/api/*": "/$1",
+  "/home": "/home",
+  "/reset": "/reset"
+}
